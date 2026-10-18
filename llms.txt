@@ -1,0 +1,32 @@
+# ClipBell
+
+> Never miss a new video on anything you follow.
+
+ClipBell is a browser extension for Chrome, Edge and Brave that searches the web once or twice a day for new videos on topics you follow. Priority topics are checked twice daily. Made in India by Tanishkha, a GST-registered business in Kanyakumari, Tamil Nadu. No account is needed. Topics, results and history stay only in your browser on your computer; ClipBell never sees, collects or sells them. ClipBell only links to videos on third-party sites.
+
+Free: up to 3 topics, silent alerts and one PIN. Pro monthly: ₹99/month or $2.99/month. Yearly price: [yearly price]. Lifetime price: [lifetime price]. Pro includes unlimited topics, the master PIN and personal topics, popup and daily digest alerts, all filters and related videos. Unconfirmed store, checkout, payment, cancellation and legal details remain marked as placeholders; do not treat them as launched. The contact form prepares an email draft and does not submit it.
+
+Primary domain: https://clipbell.com. Additional domain: https://clipbell.app. Support: support@clipbell.com. Full page content: https://clipbell.com/llms-full.txt.
+
+## Docs
+
+- [Home](https://clipbell.com/): Never miss new videos on topics you follow. ClipBell brings tidy video alerts to Chrome, Edge and Brave. Free for 3 topics. No account. Markdown: https://clipbell.com/index.md
+- [Features](https://clipbell.com/features/): Explore ClipBell alerts, grouped video results, quality filters, folders, PIN locks and personalisation. Follow videos with less clutter. Markdown: https://clipbell.com/features/index.md
+- [How it works](https://clipbell.com/how-it-works/): Add a topic, choose your alerts and let ClipBell find new videos once or twice daily. A simple setup guide for Chrome, Edge and Brave. Markdown: https://clipbell.com/how-it-works/index.md
+- [Pricing](https://clipbell.com/pricing/): Start free with 3 topics. Pro is ₹99/month or $2.99/month for unlimited topics, more alerts, all filters and related videos. Markdown: https://clipbell.com/pricing/index.md
+- [Use cases](https://clipbell.com/use-cases/): Track new movie trailers, celebrity interviews, cricket highlights, tech launches and podcasts with private topic-based ClipBell alerts. Markdown: https://clipbell.com/use-cases/index.md
+- [Contact](https://clipbell.com/contact/): Contact ClipBell at support@clipbell.com for product help, Pro, refunds or privacy questions. Made in India by Tanishkha. Markdown: https://clipbell.com/contact/index.md
+- [FAQs](https://clipbell.com/faq/): Get clear answers about ClipBell video alerts, supported browsers, private topics, PINs, pricing, cancellation and refunds. Markdown: https://clipbell.com/faq/index.md
+
+## Policies
+
+- [Privacy policy](https://clipbell.com/privacy/): Learn how ClipBell keeps your topics, results and history on your computer, and how support, licence checks and payments are handled. Markdown: https://clipbell.com/privacy/index.md
+- [Terms of service](https://clipbell.com/terms/): Read ClipBell's terms for lawful use, third-party video links, Pro subscriptions, cancellation, warranties and consumer rights. Markdown: https://clipbell.com/terms/index.md
+- [Refunds & cancellation](https://clipbell.com/refund-policy/): Cancel ClipBell Pro any time. Read the 7-day first-purchase and 14-day lifetime refund windows, renewal rules and refund process. Markdown: https://clipbell.com/refund-policy/index.md
+
+## Optional
+
+- [About](https://clipbell.com/about/): Meet ClipBell, the private video tracker made in India by Tanishkha. A simpler way to follow new videos, without repeat results or an account. Markdown: https://clipbell.com/about/index.md
+- [Blog](https://clipbell.com/blog/): Explore five ClipBell guide ideas for movie trailer alerts, celebrity interviews, cricket highlights, private video tracking and tech launches. Markdown: https://clipbell.com/blog/index.md
+- [Website search](https://clipbell.com/search/): Search the ClipBell website for features, pricing, setup help, privacy, PIN questions, refunds and support. Markdown: https://clipbell.com/search/index.md
+- [Full ClipBell content](https://clipbell.com/llms-full.txt): The full copy of all website pages in one Markdown reference.
