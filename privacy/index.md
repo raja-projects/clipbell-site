@@ -7,7 +7,7 @@ Clear information. No small surprises.
 
 Private by design. Everything stays on your computer. ClipBell keeps your topics, results and history in your browser, with no account or sign-up.
 
-**Policy draft · Effective date: [date].** Payment setup, cancellation location, licence-check details and applicable legal disclosures must be confirmed before public release. Contact: [support@clipbell.com](mailto:support@clipbell.com).
+**Effective date: 18 October 2026.** Questions about this policy: [support@clipbell.com](mailto:support@clipbell.com).
 
 ## On this page
 
@@ -71,7 +71,7 @@ The licence check is separate from your locally stored topics, results and histo
 
 ## Who handles payment details?
 
-Pro payments are handled by [Razorpay] through its checkout.
+Pro payments are handled by Razorpay through its checkout.
 
 You provide payment details to the payment provider. Tanishkha does not collect or store your full card details or UPI PIN. The provider handles payment information under its own privacy policy.
 
@@ -87,7 +87,7 @@ You do not need to send your topics, history, PIN or full payment details for a 
 
 Your extension data stays in local browser storage under your control. Tanishkha does not hold a central copy of your topics, results or history.
 
-We keep support messages while dealing with your request and for any period needed to resolve a related dispute or meet a legal duty. Purchase records follow applicable accounting and record-keeping requirements. Confirmed provider, website-request, retention and international-transfer details are [service and retention details].
+We keep support messages while dealing with your request and for any period needed to resolve a related dispute or meet a legal duty. Purchase records follow applicable accounting and record-keeping requirements. For details about service providers, website requests, retention periods or international transfers, email support@clipbell.com.
 
 Where the GDPR applies, handling a service or purchase request relies on taking steps at your request or fulfilling a contract. Records required by law rely on a legal obligation. If an activity needs your consent, we ask for it and you can withdraw it.
 

@@ -181,7 +181,7 @@ Keep topic-related video coverage in one tidy place.
 
 ### Start with a little. Follow a lot.
 
-Free for up to 3 topics. Pro adds unlimited topics and more control for ₹99/month or $2.99/month.
+Free for up to 3 topics. Pro adds unlimited topics and more control from ₹99 + GST / month in India or $2.99/month outside India, with yearly and founder lifetime options.
 
 [Compare Free & Pro](https://clipbell.com/pricing/)
 
@@ -200,7 +200,7 @@ ClipBell is a browser extension for Chrome, Edge and Brave that gives you new vi
 
 ### Is ClipBell free?
 
-Yes. The Free plan includes up to 3 topics, silent alerts and one PIN. Pro adds unlimited topics, more alert choices and additional features.
+Yes. The Free plan includes up to 3 topics, the newest 20 videos per topic, silent alerts and one PIN. Pro adds unlimited topics, full history, more alert choices and additional features.
 
 ### Do I need an account?
 

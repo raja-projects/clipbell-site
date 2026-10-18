@@ -7,7 +7,7 @@ Clear information. No small surprises.
 
 These terms explain how you may use ClipBell, how Pro plans work and what to expect from video links found on the web.
 
-**Policy draft · Effective date: [date].** Payment setup, cancellation location, licence-check details and applicable legal disclosures must be confirmed before public release. Contact: [support@clipbell.com](mailto:support@clipbell.com).
+**Effective date: 18 October 2026.** Questions about this policy: [support@clipbell.com](mailto:support@clipbell.com).
 
 ## On this page
 
@@ -60,9 +60,9 @@ Free to watch, Subscription, Not sure, quality and region labels help you assess
 
 ## How do Free and Pro plans work?
 
-Free includes up to 3 topics, silent alerts and one PIN. Pro includes unlimited topics, the master PIN with personal topics, popup and digest alerts, all filters and related videos.
+Free includes up to 3 topics with the newest 20 videos per topic, silent alerts and one PIN. Pro includes unlimited topics, full history, the master PIN with personal topics, popup and digest alerts, all filters and related videos.
 
-Available prices and billing periods are described on the Pricing page. Check the final amount, currency, applicable taxes and plan details before paying.
+Pro costs ₹99 + GST per month, ₹990 + GST per year or ₹2,999 + GST once for lifetime access for buyers in India, and $2.99 per month, $29.90 per year or $69 once outside India. Indian buyers pay 18% GST on top of the listed price; buyers outside India pay no GST. Prices and billing periods are also described on the Pricing page. Check the final amount, currency, applicable taxes and plan details before paying.
 
 ## Do subscriptions renew automatically?
 
@@ -70,11 +70,11 @@ A monthly or yearly Pro subscription renews for the chosen billing period only w
 
 Before a recurring payment is authorised, you will be shown the amount, billing frequency and renewal terms. Any required notice of a change will be provided before the change takes effect.
 
-A lifetime option is a one-time purchase with no recurring charge. The scope and duration of lifetime access are [lifetime scope].
+A lifetime option is a one-time purchase with no recurring charge. Lifetime access covers ClipBell Pro features for as long as ClipBell Pro is offered, on the purchasing account, with free updates. It is limited to the first 1,000 lifetime purchases.
 
 ## How do you cancel or request a refund?
 
-You can cancel Pro at any time from [cancellation location]. If you need help, email support@clipbell.com. Use the stated cancellation process to stop future renewals.
+You can cancel Pro at any time by emailing support@clipbell.com. Use the stated cancellation process to stop future renewals.
 
 Cancellation and a refund request are separate actions. The Refund & Cancellation Policy explains the first-purchase 7-day full refund window, the lifetime 14-day refund window and the treatment of later renewals.
 
@@ -100,7 +100,7 @@ Tanishkha may suspend or end a licence where reasonably necessary to address unl
 
 ## Which law and courts apply?
 
-These terms are governed by the laws of India. Subject to mandatory consumer protections and other applicable legal rights, disputes fall under the courts of [Kanyakumari / Tamil Nadu].
+These terms are governed by the laws of India. Subject to mandatory consumer protections and other applicable legal rights, disputes fall under the courts of Kanyakumari, Tamil Nadu.
 
 This clause does not restrict a right to bring a claim elsewhere where applicable law gives you that right.
 

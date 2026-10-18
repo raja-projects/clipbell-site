@@ -4,7 +4,7 @@
 
 ClipBell is a browser extension for Chrome, Edge and Brave that searches the web once or twice a day for new videos on topics you follow. Priority topics are checked twice daily. Made in India by Tanishkha, a GST-registered business in Kanyakumari, Tamil Nadu. No account is needed. Topics, results and history stay only in your browser on your computer; ClipBell never sees, collects or sells them. ClipBell only links to videos on third-party sites.
 
-Free: up to 3 topics, silent alerts and one PIN. Pro monthly: ₹99/month or $2.99/month. Yearly price: [yearly price]. Lifetime price: [lifetime price]. Pro includes unlimited topics, the master PIN and personal topics, popup and daily digest alerts, all filters and related videos. Unconfirmed store, checkout, payment, cancellation and legal details remain marked as placeholders; do not treat them as launched. The contact form prepares an email draft and does not submit it.
+Free: up to 3 topics, silent alerts and one PIN. Free shows the newest 20 videos per topic. Monthly Pro: ₹99 + GST / month in India, or $2.99/month outside India. Yearly Pro: ₹990 + GST / year in India, or $29.90/year outside India (2 months free: 10 months' price). Lifetime Pro: ₹2,999 + GST in India, or $69 outside India, as a one-time payment. Founder lifetime, limited to the first 1,000 users. Indian buyers pay 18% GST on top. No GST outside India. Pro includes unlimited topics, full history, the master PIN and personal topics, popup and daily digest alerts, all filters and related videos. The store listing and checkout are not live yet; do not treat purchases as open. The contact form prepares an email draft and does not submit it.
 
 Primary domain: https://clipbell.com. Additional domain: https://clipbell.app. Support: support@clipbell.com. Full page content: https://clipbell.com/llms-full.txt.
 
@@ -262,7 +262,7 @@ Keep topic-related video coverage in one tidy place.
 
 ### Start with a little. Follow a lot.
 
-Free for up to 3 topics. Pro adds unlimited topics and more control for ₹99/month or $2.99/month.
+Free for up to 3 topics. Pro adds unlimited topics and more control from ₹99 + GST / month in India or $2.99/month outside India, with yearly and founder lifetime options.
 
 [Compare Free & Pro](https://clipbell.com/pricing/)
 
@@ -281,7 +281,7 @@ ClipBell is a browser extension for Chrome, Edge and Brave that gives you new vi
 
 ### Is ClipBell free?
 
-Yes. The Free plan includes up to 3 topics, silent alerts and one PIN. Pro adds unlimited topics, more alert choices and additional features.
+Yes. The Free plan includes up to 3 topics, the newest 20 videos per topic, silent alerts and one PIN. Pro adds unlimited topics, full history, more alert choices and additional features.
 
 ### Do I need an account?
 
@@ -582,7 +582,7 @@ URL: https://clipbell.com/pricing/
 
 SEO title: ClipBell Pricing — Free and Pro Video Alerts
 
-Meta description: Start free with 3 topics. Pro is ₹99/month or $2.99/month for unlimited topics, more alerts, all filters and related videos.
+Meta description: Start free with 3 topics. Pro is ₹99 + GST/month in India or $2.99/month elsewhere, with yearly and founder lifetime plans.
 
 - [Home](https://clipbell.com/)
 - Pricing
@@ -592,7 +592,7 @@ Simple plans. Your choice.
 # A free start.
 More room when you need it.
 
-Free gives you up to 3 topics, silent alerts and one PIN. Pro adds unlimited topics, more alert options, all filters, related videos and personal topics.
+Free gives you up to 3 topics with the newest 20 videos per topic, silent alerts and one PIN. Pro adds unlimited topics, full history, more alert options, all filters, related videos and personal topics.
 
 Monthly Yearly Lifetime
 
@@ -609,6 +609,7 @@ For a few things you love to follow.
 No account. No sign-up.
 
 - Up to 3 topics
+- Newest 20 videos per topic
 - Silent alerts with an icon count
 - One PIN
 - Topics, results and history stored locally
@@ -621,11 +622,12 @@ A little more of everything
 
 For more topics and more control.
 
-₹99 / month
+₹99 + GST / month
 
-Monthly plan · India pricing.
+Monthly plan · India pricing. Indian buyers pay 18% GST on top.
 
 - Unlimited topics
+- Full history
 - Master PIN with personal topics
 - Silent, popup and daily digest alerts
 - All filters
@@ -633,9 +635,11 @@ Monthly plan · India pricing.
 
 [Choose Pro](https://clipbell.com/pricing/#purchase-info)
 
-Monthly Pro: ₹99/month in INR or $2.99/month in USD. Yearly: [yearly price]. Lifetime: [lifetime price].
+Monthly Pro: ₹99 + GST / month in India, or $2.99/month outside India. Yearly Pro: ₹990 + GST / year in India, or $29.90/year outside India (2 months free: 10 months' price). Lifetime Pro: ₹2,999 + GST in India, or $69 outside India, as a one-time payment. Founder lifetime, limited to the first 1,000 users.
 
-**Before purchases open:** yearly and lifetime prices, tax treatment, checkout and cancellation details are being finalised. Install link: [Chrome Web Store link]. Purchases are not available in this website preview.
+Indian buyers pay 18% GST on top. No GST outside India.
+
+**Before purchases open:** checkout is being finalised, and the install link is coming soon. Purchases are not yet available on this website.
 
 Choose what fits
 
@@ -649,6 +653,8 @@ Confirmed Free versus Pro plan differences
 | --- | --- | --- |
 
 | Topics | Up to 3 | Unlimited |
+
+| Video history | Newest 20 videos per topic | Full history |
 
 | Silent alerts | Included | Included |
 
@@ -668,13 +674,13 @@ ClipBell Pro is a licence for extension features. Streaming subscriptions are se
 
 ## How can you pay?
 
-Planned payment setup: [Razorpay for India, card or UPI; international cards]. Available payment methods and any applicable taxes must be shown before payment.
+Planned payment setup: Razorpay for India (cards and UPI) and international cards. Prices in India are shown before 18% GST, which is added at checkout. Buyers outside India pay no GST. Available payment methods and the final amount are shown before payment.
 
 Payment details are handled by the payment provider. Your topics are not sent with a Pro licence check.
 
 ## Can you cancel or get a refund?
 
-You can cancel any time from [cancellation location]. A first Pro purchase has a 7-day full-refund window; a lifetime purchase has a 14-day window. Later renewal periods are not refundable except where required by law.
+You can cancel any time by emailing support@clipbell.com. A first Pro purchase has a 7-day full-refund window; a lifetime purchase has a 14-day window. Later renewal periods are not refundable except where required by law.
 
 Approved refunds are submitted to the original payment method within 5–7 business days; bank credit may take longer.
 
@@ -797,7 +803,7 @@ Clear information. No small surprises.
 
 Private by design. Everything stays on your computer. ClipBell keeps your topics, results and history in your browser, with no account or sign-up.
 
-**Policy draft · Effective date: [date].** Payment setup, cancellation location, licence-check details and applicable legal disclosures must be confirmed before public release. Contact: [support@clipbell.com](mailto:support@clipbell.com).
+**Effective date: 18 October 2026.** Questions about this policy: [support@clipbell.com](mailto:support@clipbell.com).
 
 ## On this page
 
@@ -861,7 +867,7 @@ The licence check is separate from your locally stored topics, results and histo
 
 ## Who handles payment details?
 
-Pro payments are handled by [Razorpay] through its checkout.
+Pro payments are handled by Razorpay through its checkout.
 
 You provide payment details to the payment provider. Tanishkha does not collect or store your full card details or UPI PIN. The provider handles payment information under its own privacy policy.
 
@@ -877,7 +883,7 @@ You do not need to send your topics, history, PIN or full payment details for a 
 
 Your extension data stays in local browser storage under your control. Tanishkha does not hold a central copy of your topics, results or history.
 
-We keep support messages while dealing with your request and for any period needed to resolve a related dispute or meet a legal duty. Purchase records follow applicable accounting and record-keeping requirements. Confirmed provider, website-request, retention and international-transfer details are [service and retention details].
+We keep support messages while dealing with your request and for any period needed to resolve a related dispute or meet a legal duty. Purchase records follow applicable accounting and record-keeping requirements. For details about service providers, website requests, retention periods or international transfers, email support@clipbell.com.
 
 Where the GDPR applies, handling a service or purchase request relies on taking steps at your request or fulfilling a contract. Records required by law rely on a legal obligation. If an activity needs your consent, we ask for it and you can withdraw it.
 
@@ -920,7 +926,7 @@ Clear information. No small surprises.
 
 These terms explain how you may use ClipBell, how Pro plans work and what to expect from video links found on the web.
 
-**Policy draft · Effective date: [date].** Payment setup, cancellation location, licence-check details and applicable legal disclosures must be confirmed before public release. Contact: [support@clipbell.com](mailto:support@clipbell.com).
+**Effective date: 18 October 2026.** Questions about this policy: [support@clipbell.com](mailto:support@clipbell.com).
 
 ## On this page
 
@@ -973,9 +979,9 @@ Free to watch, Subscription, Not sure, quality and region labels help you assess
 
 ## How do Free and Pro plans work?
 
-Free includes up to 3 topics, silent alerts and one PIN. Pro includes unlimited topics, the master PIN with personal topics, popup and digest alerts, all filters and related videos.
+Free includes up to 3 topics with the newest 20 videos per topic, silent alerts and one PIN. Pro includes unlimited topics, full history, the master PIN with personal topics, popup and digest alerts, all filters and related videos.
 
-Available prices and billing periods are described on the Pricing page. Check the final amount, currency, applicable taxes and plan details before paying.
+Pro costs ₹99 + GST per month, ₹990 + GST per year or ₹2,999 + GST once for lifetime access for buyers in India, and $2.99 per month, $29.90 per year or $69 once outside India. Indian buyers pay 18% GST on top of the listed price; buyers outside India pay no GST. Prices and billing periods are also described on the Pricing page. Check the final amount, currency, applicable taxes and plan details before paying.
 
 ## Do subscriptions renew automatically?
 
@@ -983,11 +989,11 @@ A monthly or yearly Pro subscription renews for the chosen billing period only w
 
 Before a recurring payment is authorised, you will be shown the amount, billing frequency and renewal terms. Any required notice of a change will be provided before the change takes effect.
 
-A lifetime option is a one-time purchase with no recurring charge. The scope and duration of lifetime access are [lifetime scope].
+A lifetime option is a one-time purchase with no recurring charge. Lifetime access covers ClipBell Pro features for as long as ClipBell Pro is offered, on the purchasing account, with free updates. It is limited to the first 1,000 lifetime purchases.
 
 ## How do you cancel or request a refund?
 
-You can cancel Pro at any time from [cancellation location]. If you need help, email support@clipbell.com. Use the stated cancellation process to stop future renewals.
+You can cancel Pro at any time by emailing support@clipbell.com. Use the stated cancellation process to stop future renewals.
 
 Cancellation and a refund request are separate actions. The Refund & Cancellation Policy explains the first-purchase 7-day full refund window, the lifetime 14-day refund window and the treatment of later renewals.
 
@@ -1013,7 +1019,7 @@ Tanishkha may suspend or end a licence where reasonably necessary to address unl
 
 ## Which law and courts apply?
 
-These terms are governed by the laws of India. Subject to mandatory consumer protections and other applicable legal rights, disputes fall under the courts of [Kanyakumari / Tamil Nadu].
+These terms are governed by the laws of India. Subject to mandatory consumer protections and other applicable legal rights, disputes fall under the courts of Kanyakumari, Tamil Nadu.
 
 This clause does not restrict a right to bring a claim elsewhere where applicable law gives you that right.
 
@@ -1042,7 +1048,7 @@ Clear information. No small surprises.
 
 You can cancel Pro at any time. A first Pro subscription purchase has a 7-day full refund window, and a lifetime purchase has a 14-day full refund window.
 
-**Policy draft · Effective date: [date].** Payment setup, cancellation location, licence-check details and applicable legal disclosures must be confirmed before public release. Contact: [support@clipbell.com](mailto:support@clipbell.com).
+**Effective date: 18 October 2026.** Questions about this policy: [support@clipbell.com](mailto:support@clipbell.com).
 
 ## On this page
 
@@ -1058,7 +1064,7 @@ You can cancel Pro at any time. A first Pro subscription purchase has a 7-day fu
 
 ## How do I cancel Pro?
 
-Cancel your monthly or yearly Pro subscription at any time from [cancellation location]. If you need help, email support@clipbell.com.
+Cancel your monthly or yearly Pro subscription at any time by emailing support@clipbell.com.
 
 Cancellation stops future renewals once it takes effect. The effective date and any remaining paid access follow the terms shown for your plan. Use the cancellation process to stop renewals; do not rely on removing the extension.
 
@@ -1101,7 +1107,7 @@ If the refund has not appeared after the expected bank or provider timeframe, em
 
 ## Who processes the payment and refund?
 
-Payments and refunds are processed through [Razorpay].
+Payments and refunds are processed through Razorpay.
 
 Contact Tanishkha for ClipBell cancellation and refund requests. The payment provider handles the payment movement; ClipBell's purchase terms and your legal rights determine refund eligibility.
 
@@ -1203,11 +1209,11 @@ ClipBell is a browser extension for Chrome, Edge and Brave that gives you new vi
 
 ### Is ClipBell free?
 
-Yes. The Free plan includes up to 3 topics, silent alerts and one PIN. Pro adds unlimited topics, more alert choices and additional features.
+Yes. The Free plan includes up to 3 topics, the newest 20 videos per topic, silent alerts and one PIN. Pro adds unlimited topics, full history, more alert choices and additional features.
 
 ### What does ClipBell Pro include?
 
-Pro includes unlimited topics, a master PIN for personal topics, popup and daily digest alerts, all filters and related videos. See the Pricing page for monthly, yearly and lifetime options.
+Pro includes unlimited topics, a master PIN for personal topics, popup and daily digest alerts, all filters and related videos. Pro is ₹99 + GST / month in India or $2.99/month outside India. Yearly Pro is ₹990 + GST or $29.90 (2 months free), and the one-time Founder lifetime plan is ₹2,999 + GST or $69, limited to the first 1,000 users. Indian buyers pay 18% GST on top. No GST outside India.
 
 ### Do I need an account?
 
@@ -1259,7 +1265,7 @@ Email support@clipbell.com for guidance for your installed version before resett
 
 ### How do I cancel Pro?
 
-You can cancel any time from [cancellation location]. If you need help, email support@clipbell.com. The Refund & Cancellation Policy explains cancellation and refund terms.
+You can cancel any time by emailing support@clipbell.com. The Refund & Cancellation Policy explains cancellation and refund terms.
 
 ### How do refunds work?
 
@@ -1367,7 +1373,7 @@ We never see, collect or sell your topics, results or history. Optional on-devic
 
 ClipBell is made in India by Tanishkha, a GST-registered business based in Kanyakumari, Tamil Nadu. ClipBell’s primary domain is clipbell.com, with clipbell.app as an additional domain.
 
-It is a browser extension for Chrome, Edge and Brave on your computer. Free includes up to 3 topics, silent alerts and one PIN. Pro is ₹99/month or $2.99/month, with yearly and lifetime prices to be confirmed.
+It is a browser extension for Chrome, Edge and Brave on your computer. Free includes up to 3 topics, silent alerts and one PIN. Pro is ₹99 + GST / month in India or $2.99/month outside India. Yearly Pro is ₹990 + GST or $29.90, and Founder lifetime is ₹2,999 + GST or $69 as a one-time payment, limited to the first 1,000 users.
 
 **Made in India**By Tanishkha, Kanyakumari.
 

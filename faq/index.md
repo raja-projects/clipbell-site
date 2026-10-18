@@ -20,11 +20,11 @@ ClipBell is a browser extension for Chrome, Edge and Brave that gives you new vi
 
 ### Is ClipBell free?
 
-Yes. The Free plan includes up to 3 topics, silent alerts and one PIN. Pro adds unlimited topics, more alert choices and additional features.
+Yes. The Free plan includes up to 3 topics, the newest 20 videos per topic, silent alerts and one PIN. Pro adds unlimited topics, full history, more alert choices and additional features.
 
 ### What does ClipBell Pro include?
 
-Pro includes unlimited topics, a master PIN for personal topics, popup and daily digest alerts, all filters and related videos. See the Pricing page for monthly, yearly and lifetime options.
+Pro includes unlimited topics, a master PIN for personal topics, popup and daily digest alerts, all filters and related videos. Pro is ₹99 + GST / month in India or $2.99/month outside India. Yearly Pro is ₹990 + GST or $29.90 (2 months free), and the one-time Founder lifetime plan is ₹2,999 + GST or $69, limited to the first 1,000 users. Indian buyers pay 18% GST on top. No GST outside India.
 
 ### Do I need an account?
 
@@ -76,7 +76,7 @@ Email support@clipbell.com for guidance for your installed version before resett
 
 ### How do I cancel Pro?
 
-You can cancel any time from [cancellation location]. If you need help, email support@clipbell.com. The Refund & Cancellation Policy explains cancellation and refund terms.
+You can cancel any time by emailing support@clipbell.com. The Refund & Cancellation Policy explains cancellation and refund terms.
 
 ### How do refunds work?
 

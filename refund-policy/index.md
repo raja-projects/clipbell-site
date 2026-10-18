@@ -7,7 +7,7 @@ Clear information. No small surprises.
 
 You can cancel Pro at any time. A first Pro subscription purchase has a 7-day full refund window, and a lifetime purchase has a 14-day full refund window.
 
-**Policy draft · Effective date: [date].** Payment setup, cancellation location, licence-check details and applicable legal disclosures must be confirmed before public release. Contact: [support@clipbell.com](mailto:support@clipbell.com).
+**Effective date: 18 October 2026.** Questions about this policy: [support@clipbell.com](mailto:support@clipbell.com).
 
 ## On this page
 
@@ -23,7 +23,7 @@ You can cancel Pro at any time. A first Pro subscription purchase has a 7-day fu
 
 ## How do I cancel Pro?
 
-Cancel your monthly or yearly Pro subscription at any time from [cancellation location]. If you need help, email support@clipbell.com.
+Cancel your monthly or yearly Pro subscription at any time by emailing support@clipbell.com.
 
 Cancellation stops future renewals once it takes effect. The effective date and any remaining paid access follow the terms shown for your plan. Use the cancellation process to stop renewals; do not rely on removing the extension.
 
@@ -66,7 +66,7 @@ If the refund has not appeared after the expected bank or provider timeframe, em
 
 ## Who processes the payment and refund?
 
-Payments and refunds are processed through [Razorpay].
+Payments and refunds are processed through Razorpay.
 
 Contact Tanishkha for ClipBell cancellation and refund requests. The payment provider handles the payment movement; ClipBell's purchase terms and your legal rights determine refund eligibility.
 

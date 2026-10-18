@@ -27,7 +27,7 @@ We never see, collect or sell your topics, results or history. Optional on-devic
 
 ClipBell is made in India by Tanishkha, a GST-registered business based in Kanyakumari, Tamil Nadu. ClipBell’s primary domain is clipbell.com, with clipbell.app as an additional domain.
 
-It is a browser extension for Chrome, Edge and Brave on your computer. Free includes up to 3 topics, silent alerts and one PIN. Pro is ₹99/month or $2.99/month, with yearly and lifetime prices to be confirmed.
+It is a browser extension for Chrome, Edge and Brave on your computer. Free includes up to 3 topics, silent alerts and one PIN. Pro is ₹99 + GST / month in India or $2.99/month outside India. Yearly Pro is ₹990 + GST or $29.90, and Founder lifetime is ₹2,999 + GST or $69 as a one-time payment, limited to the first 1,000 users.
 
 **Made in India**By Tanishkha, Kanyakumari.
 

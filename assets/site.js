@@ -20,8 +20,8 @@
     event.preventDefault(); previousFocus = link;
     const install = link.dataset.launch === 'install';
     dialogHeading.textContent = install ? 'The install link is being finalised.' : 'Pro checkout is being finalised.';
-    dialogText.textContent = install ? 'This website preview is ready. The official extension listing needs to be added before you can install ClipBell here.' : 'The Pro plans are shown for review. Checkout, yearly and lifetime prices, and cancellation details need to be confirmed before purchases open.';
-    dialogValue.textContent = install ? '[Chrome Web Store link]' : '[Pro checkout link]';
+    dialogText.textContent = install ? 'The official extension listing needs to be added before you can install ClipBell here.' : 'Pro prices are set. Checkout is being finalised, so purchases are not open on this website yet.';
+    dialogValue.textContent = 'Coming soon';
     dialog.showModal();
   }));
   $('#notice-close')?.addEventListener('click', () => dialog.close());
@@ -76,22 +76,30 @@
   const currency = $('#currency');
   const priceNode = $('#pro-price');
   let billing = 'monthly';
+  const formatPrice = (cur, raw) => {
+    const amount = Number(raw);
+    if (cur === 'INR') return '₹' + amount.toLocaleString('en-IN', {maximumFractionDigits: 0});
+    return '$' + (Number.isInteger(amount) ? String(amount) : amount.toFixed(2));
+  };
+  const suffixes = {
+    monthly: {INR: ' + GST / month', USD: ' / month'},
+    yearly: {INR: ' + GST / year', USD: ' / year'},
+    lifetime: {INR: ' + GST · one-time', USD: ' · one-time'}
+  };
+  const notes = {
+    monthly: {INR: 'Monthly plan · India pricing. Indian buyers pay 18% GST on top.', USD: 'Monthly plan · outside India. No GST outside India.'},
+    yearly: {INR: 'Yearly plan · 2 months free (10 months’ price). Indian buyers pay 18% GST on top.', USD: 'Yearly plan · 2 months free (10 months’ price). No GST outside India.'},
+    lifetime: {INR: 'Founder lifetime, limited to the first 1,000 users. One-time payment. Indian buyers pay 18% GST on top.', USD: 'Founder lifetime, limited to the first 1,000 users. One-time payment. No GST outside India.'}
+  };
   const updatePrice = () => {
     if (!priceNode) return;
     const cur = currency.value;
-    const pending = billing !== 'monthly';
-    priceNode.classList.toggle('pending',pending);
+    const key = billing + (cur === 'INR' ? 'Inr' : 'Usd');
+    priceNode.classList.remove('pending');
     priceNode.replaceChildren();
-    if (pending) {
-      const key=billing+(cur==='INR'?'Inr':'Usd');
-      const value=priceNode.dataset[key];
-      priceNode.textContent = value && !value.includes('[') ? (cur==='INR'?'₹':'$')+value : (billing==='yearly'?'[yearly price]':'[lifetime price]');
-      $('#pro-price-note').textContent = billing==='yearly'?'Yearly billing · price to be confirmed.':'One-time purchase · price to be confirmed.';
-    } else {
-      priceNode.append(document.createTextNode(cur==='INR'?'₹'+priceNode.dataset.monthlyInr:'$'+Number(priceNode.dataset.monthlyUsd).toFixed(2)));
-      const suffix=document.createElement('small');suffix.textContent=' / month';priceNode.append(suffix);
-      $('#pro-price-note').textContent=cur==='INR'?'Monthly plan · India pricing.':'Monthly plan · USD pricing.';
-    }
+    priceNode.append(document.createTextNode(formatPrice(cur, priceNode.dataset[key])));
+    const suffix = document.createElement('small'); suffix.textContent = suffixes[billing][cur]; priceNode.append(suffix);
+    $('#pro-price-note').textContent = notes[billing][cur];
     $$('[data-billing]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.billing===billing)));
     $('#free-price').firstChild.textContent=cur==='INR'?'₹0':'$0';
   };
